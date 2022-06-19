@@ -1,2 +1,2 @@
 # Datacamp_projects
-Guided and unguided projects from DataCamp's Python for Data Science Track
+Guided project from DataCamp's Python for Data Science Track on Google Play Reviews
